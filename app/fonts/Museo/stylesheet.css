@@ -1,0 +1,42 @@
+@font-face {
+    font-family: 'Museo';
+    src: url('Museo300.eot');
+    src: url('Museo300.woff2') format('woff2'),
+         url('Museo300.woff') format('woff'),
+         url('Museo300.eot?#iefix') format('embedded-opentype'),
+         url('Museo300.ttf') format('truetype'),
+         url('Museo300.otf') format('opentype'),
+         url('Museo300.svg') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Museo';
+    src: url('Museo500.eot');
+    src: url('Museo500.woff2') format('woff2'),
+         url('Museo500.woff') format('woff'),
+         url('Museo500.eot?#iefix') format('embedded-opentype'),
+         url('Museo500.ttf') format('truetype'),
+         url('Museo500.otf') format('opentype'),
+         url('Museo500.svg') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Museo';
+    src: url('Museo700.eot');
+    src: url('Museo700.woff2') format('woff2'),
+         url('Museo700.woff') format('woff'),
+         url('Museo700.eot?#iefix') format('embedded-opentype'),
+         url('Museo700.ttf') format('truetype'),
+         url('Museo700.otf') format('opentype'),
+         url('Museo700.svg') format('svg');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
