@@ -5,8 +5,11 @@ body {
     // flex-direction: column;
     // justify-content: space-between;
     // overflow-x: hidden;
-    background: #000;
+    background: #fff;
     font-family: 'Museo', Arial, sans-serif;
     font-size: 16px;
     line-height: 22px;
+    &.no-scroll {
+        overflow: hidden;
+    }
 }

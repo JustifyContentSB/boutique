@@ -1,6 +1,16 @@
 @import '../../../node_modules/normalize.css/normalize';
 
+@import '../#base/vars.scss';
 @import '../#base/base.scss';
 @import '../#base/fonts.scss';
 @import '../#base/body.scss';
+@import '../#main/wrapper.scss';
+@import '../#main/container.scss';
+@import '../#main/nav.scss';
+@import '../#main/header.scss';
+@import '../#main/goods.scss';
+@import '../#main/form.scss';
+@import '../#main/feedback.scss';
+@import '../#main/close-btn.scss';
+@import '../#main/overlay.scss';
 
